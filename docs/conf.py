@@ -12,4 +12,5 @@ html_static_path = ['_static']
 
 html_js_files = [
     'livechat.js',
+    html_favicon = '_static/totaldefense.png'
 ]

@@ -7,7 +7,7 @@ How to Keep Your Total Defense Sign-In Account Secure?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://totaldefense-sign-in-account.readthedocs.io/en/latest/_images/signin.png
+.. image:: signin.png
    :alt: My Project Logo
    :width: 400px
    :align: center

